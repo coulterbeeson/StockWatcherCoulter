@@ -35,7 +35,7 @@ public class StockWatcher implements EntryPoint {
 
 	/**  * Entry point method.  */  public void onModuleLoad() { 
 
-		System.out.println("Hello World!");
+		System.out.println("Hello Planet!");
 
 		// Create table for stock data. 
 		stocksFlexTable.setText(0, 0, "Symbol"); 
